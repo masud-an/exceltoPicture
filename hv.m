@@ -75,7 +75,7 @@ end
 
 fclose(fileID);
 
-
+## This is the excel VBA code,. Goto View code of a worksheet and then paste this code
 ##Private Sub Worksheet_Change(ByVal Target As Range)
 ##    On Error GoTo bm_Safe_Exit
 ##    Application.EnableEvents = False
